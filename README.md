@@ -1,2 +1,2 @@
 # devOps_Projects
-I am making this Repo to test and deploy the example awebsites
+I am making this Repo to test and deploy the example AWS websites
